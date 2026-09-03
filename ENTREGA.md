@@ -1,6 +1,6 @@
 RM: 572126
 
-Publicado em: COLE_AQUI_O_LINK_DA_VERCEL
+Publicado em: cp1-tailwind-2026-guilherme.vercel.app
 
 Carta: 10 · Fermento
 
